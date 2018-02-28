@@ -1,0 +1,16 @@
+{
+  "name": "VideoMaterial",
+  "version": "0.0.1",
+  "description": "Simple THREE.js material for chromakey video.",
+  "main": "VideoMaterial.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gerard Payne<github@gerard-payne.net>",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+  }
+}
